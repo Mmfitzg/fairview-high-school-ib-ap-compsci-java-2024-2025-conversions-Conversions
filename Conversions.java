@@ -11,7 +11,7 @@ public class Conversions
     {
         Scanner keyboard = new Scanner(System.in);
 
-        System.out.println("0. Celsius to Fahrenheit");
+        System.out.println("0. Celsius to Fahrenheit");//test
         System.out.println("1. Fahrenheit to Celsius");
         System.out.println("2. Feet to Meters");
         System.out.println("3. Meters to Feet");
